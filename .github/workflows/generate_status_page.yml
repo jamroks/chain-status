@@ -22,4 +22,4 @@ jobs:
         with:
           info-md-url: "https://raw.githubusercontent.com/jamroks/chain-status/main/.ci/chain-status-info.md"
           github-token: "${{ secrets.GITHUB_TOKEN }}"
-          gh-pages-branch: "main/gh-pages"
+          gh-pages-branch: "gh-pages"
