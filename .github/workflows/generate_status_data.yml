@@ -16,7 +16,7 @@ jobs:
       - name: Generate status page data
         uses: kiegroup/chain-status/.ci/actions/generate-data@main
         with:
-          definition-file: https://raw.githubusercontent.com/jamroks/chain-status/main/project-dependencies.yml
+          definition-file: https://raw.githubusercontent.com/jamroks/chain-status/main/.ci/project-dependencies.yml
           title: Jamroks Status
           subtitle: jamroks organization repositories CI Status
           created-by: Github Action

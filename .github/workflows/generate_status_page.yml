@@ -20,6 +20,6 @@ jobs:
         # uses the already provided chain-status action for app generation purpose
         uses: kiegroup/chain-status/.ci/actions/generate-app@main
         with:
-          info-md-url: "https://raw.githubusercontent.com/jamroks/chain-status/main/chain-status-info.md"
+          info-md-url: "https://raw.githubusercontent.com/jamroks/chain-status/main/.ci/chain-status-info.md"
           github-token: "${{ secrets.GITHUB_TOKEN }}"
           gh-pages-branch: "main/gh-pages"
