@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2023-05-24T16:05:25.124Z",
+    "date": "2023-05-24T19:04:44.252Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/5070923127"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/5072469161"
   },
   "projects": [
     {
@@ -80,10 +80,10 @@
               "id": 13729809307,
               "name": "Run tests on windows-latest",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/5070636351/jobs/9105942169",
-              "status": "in_progress",
-              "conclusion": null,
+              "status": "completed",
+              "conclusion": "success",
               "started_at": "2023-05-24T15:35:01Z",
-              "completed_at": null,
+              "completed_at": "2023-05-24T16:06:29Z",
               "slug": "github-actions",
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
@@ -102,10 +102,10 @@
               "id": 13729808870,
               "name": "Run tests on ubuntu-latest",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/5070636351/jobs/9105941844",
-              "status": "in_progress",
-              "conclusion": null,
+              "status": "completed",
+              "conclusion": "success",
               "started_at": "2023-05-24T15:34:57Z",
-              "completed_at": null,
+              "completed_at": "2023-05-24T16:16:05Z",
               "slug": "github-actions",
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
@@ -146,10 +146,10 @@
               "id": 13729807592,
               "name": "Run tests on windows-latest",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/5070635895/jobs/9105940856",
-              "status": "in_progress",
-              "conclusion": null,
+              "status": "completed",
+              "conclusion": "success",
               "started_at": "2023-05-24T15:34:52Z",
-              "completed_at": null,
+              "completed_at": "2023-05-24T16:06:40Z",
               "slug": "github-actions",
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
