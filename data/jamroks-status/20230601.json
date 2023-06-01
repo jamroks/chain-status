@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2023-06-01T14:04:56.869Z",
+    "date": "2023-06-01T15:05:31.031Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/5145335564"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/5146006897"
   },
   "projects": [
     {
@@ -2090,12 +2090,12 @@
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
             {
-              "id": 23394988366,
+              "id": 23408073612,
               "name": "eclipsefdn/eca",
               "html_url": "https://accounts.eclipse.org/legal/eca/validation/157117",
               "conclusion": "error",
-              "started_at": "2023-05-31T23:43:46Z",
-              "completed_at": "2023-05-31T23:43:46Z",
+              "started_at": "2023-06-01T14:34:38Z",
+              "completed_at": "2023-06-01T14:34:38Z",
               "slug": false,
               "avatar_url": "https://avatars.githubusercontent.com/in/22325?v=4"
             }
