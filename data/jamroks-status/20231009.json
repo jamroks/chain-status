@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2023-10-09T09:05:46.273Z",
+    "date": "2023-10-09T10:05:32.871Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/6454538573"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/6455153200"
   },
   "projects": [
     {
@@ -1108,12 +1108,12 @@
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
             {
-              "id": 25475744757,
+              "id": 25476497219,
               "name": "eclipsefdn/eca",
               "html_url": "https://api.eclipse.org/git/eca/status/gh/eclipse-zenoh/zenoh-pico/258",
-              "conclusion": "pending",
-              "started_at": "2023-10-09T08:33:35Z",
-              "completed_at": "2023-10-09T08:33:35Z",
+              "conclusion": "success",
+              "started_at": "2023-10-09T09:18:08Z",
+              "completed_at": "2023-10-09T09:18:08Z",
               "slug": false,
               "avatar_url": "https://avatars.githubusercontent.com/in/22325?v=4"
             }
