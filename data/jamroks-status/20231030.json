@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2023-10-30T21:05:05.124Z",
+    "date": "2023-10-30T22:05:11.310Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/6698702254"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/6699240872"
   },
   "projects": [
     {
@@ -1716,7 +1716,7 @@
           "draft": true,
           "requested_reviewers": [],
           "created_at": "2023-10-30T12:08:24Z",
-          "updated_at": "2023-10-30T12:08:24Z",
+          "updated_at": "2023-10-30T21:55:11Z",
           "closed_at": null,
           "merged_at": null,
           "base": {
