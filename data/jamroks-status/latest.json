@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2023-11-10T18:05:29.037Z",
+    "date": "2023-11-10T19:05:00.600Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/6828176569"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/6828673886"
   },
   "projects": [
     {
@@ -1712,7 +1712,7 @@
       "name": "zenoh-pico",
       "description": "Eclipse zenoh for pico devices",
       "html_url": "https://github.com/eclipse-zenoh/zenoh-pico",
-      "updated_at": "2023-11-10T09:45:30Z",
+      "updated_at": "2023-11-10T18:43:50Z",
       "homepage": null,
       "language": "C",
       "default_branch": "master",
