@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2024-01-23T10:05:22.001Z",
+    "date": "2024-01-23T11:05:03.382Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/7624062847"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/7624773547"
   },
   "projects": [
     {
@@ -12,7 +12,7 @@
       "name": "zenoh",
       "description": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",
       "html_url": "https://github.com/eclipse-zenoh/zenoh",
-      "updated_at": "2024-01-23T02:52:56Z",
+      "updated_at": "2024-01-23T11:02:04Z",
       "homepage": "https://zenoh.io",
       "language": "Rust",
       "default_branch": "main",
@@ -1448,6 +1448,17 @@
           },
           "checks": [
             {
+              "id": 20765491665,
+              "name": "CI status checks",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/7623792126/job/20765491665",
+              "status": "completed",
+              "conclusion": "success",
+              "started_at": "2024-01-23T10:06:42Z",
+              "completed_at": "2024-01-23T10:06:42Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
               "id": 20765217082,
               "name": "CI status checks",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/7623792580/job/20765217082",
@@ -1550,10 +1561,10 @@
               "id": 20764551757,
               "name": "Run tests on macOS-latest",
               "html_url": "https://github.com/eclipse-zenoh/zenoh/actions/runs/7623792126/job/20764551757",
-              "status": "in_progress",
-              "conclusion": null,
+              "status": "completed",
+              "conclusion": "success",
               "started_at": "2024-01-23T09:41:57Z",
-              "completed_at": null,
+              "completed_at": "2024-01-23T10:06:34Z",
               "slug": "github-actions",
               "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
             },
