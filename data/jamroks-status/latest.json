@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2024-02-20T08:05:59.657Z",
+    "date": "2024-02-20T09:05:37.040Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/7970234510"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/7970919467"
   },
   "projects": [
     {
@@ -12,7 +12,7 @@
       "name": "zenoh",
       "description": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",
       "html_url": "https://github.com/eclipse-zenoh/zenoh",
-      "updated_at": "2024-02-20T05:46:44Z",
+      "updated_at": "2024-02-20T09:04:44Z",
       "homepage": "https://zenoh.io",
       "language": "Rust",
       "default_branch": "main",
