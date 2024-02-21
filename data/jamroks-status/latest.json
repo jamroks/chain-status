@@ -2,9 +2,9 @@
   "metadata": {
     "title": "Jamroks Status",
     "subtitle": "jamroks organization repositories CI Status",
-    "date": "2024-02-21T16:06:05.461Z",
+    "date": "2024-02-21T17:05:03.537Z",
     "createdBy": "Github Action",
-    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/7992029161"
+    "createdUrl": "https://github.com/jamroks/chain-status/actions/runs/7992847469"
   },
   "projects": [
     {
@@ -2923,6 +2923,58 @@
       "pulls_url": "https://api.github.com/repos/eclipse-zenoh/zenoh-python/pulls{/number}",
       "pullRequests": [
         {
+          "number": 145,
+          "title": "Feature/priority in sample",
+          "url": "https://api.github.com/repos/eclipse-zenoh/zenoh-python/pulls/145",
+          "html_url": "https://github.com/eclipse-zenoh/zenoh-python/pull/145",
+          "state": "open",
+          "labels": [],
+          "draft": false,
+          "requested_reviewers": [],
+          "created_at": "2024-02-21T16:07:25Z",
+          "updated_at": "2024-02-21T16:07:37Z",
+          "closed_at": null,
+          "merged_at": null,
+          "base": {
+            "ref": "main",
+            "sha": "191398a948f1369fc755ddac3f04e126da221ec3",
+            "label": "eclipse-zenoh:main"
+          },
+          "head": {
+            "ref": "feature/priority-in-sample",
+            "sha": "b1871de17f4ddb9fe8f684c12d29377c9b59db54",
+            "label": "DenisBiryukov91:feature/priority-in-sample"
+          },
+          "user": {
+            "login": "DenisBiryukov91",
+            "avatar_url": "https://avatars.githubusercontent.com/u/155981813?v=4",
+            "html_url": "https://github.com/DenisBiryukov91"
+          },
+          "checks": [
+            {
+              "id": 21824696953,
+              "name": "main / Enforce referencing a closing issue",
+              "html_url": "https://github.com/eclipse-zenoh/zenoh-python/actions/runs/7992055760/job/21824696953",
+              "status": "completed",
+              "conclusion": "success",
+              "started_at": "2024-02-21T16:07:35Z",
+              "completed_at": "2024-02-21T16:07:42Z",
+              "slug": "github-actions",
+              "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+            },
+            {
+              "id": 27640831053,
+              "name": "eclipsefdn/eca",
+              "html_url": "https://api.eclipse.org/git/eca/status/gh/eclipse-zenoh/zenoh-python/145",
+              "conclusion": "success",
+              "started_at": "2024-02-21T16:07:29Z",
+              "completed_at": "2024-02-21T16:07:29Z",
+              "slug": false,
+              "avatar_url": "https://avatars.githubusercontent.com/in/22325?v=4"
+            }
+          ]
+        },
+        {
           "number": 134,
           "title": "Sync `Cargo.lock` and/or `rust-toolchain.toml` with Zenoh's",
           "url": "https://api.github.com/repos/eclipse-zenoh/zenoh-python/pulls/134",
@@ -5063,7 +5115,7 @@
       "name": "zenoh-pico",
       "description": "Eclipse zenoh for pico devices",
       "html_url": "https://github.com/eclipse-zenoh/zenoh-pico",
-      "updated_at": "2024-02-20T21:15:39Z",
+      "updated_at": "2024-02-21T17:04:25Z",
       "homepage": null,
       "language": "C",
       "default_branch": "main",
@@ -5638,12 +5690,12 @@
           "draft": false,
           "requested_reviewers": [],
           "created_at": "2024-02-20T09:14:55Z",
-          "updated_at": "2024-02-20T15:49:17Z",
+          "updated_at": "2024-02-21T16:06:58Z",
           "closed_at": null,
           "merged_at": null,
           "base": {
             "ref": "protocol_changes",
-            "sha": "316cf0419438e7c74cf39acb164ad82539eb04ab",
+            "sha": "16e9eb3054a7f7d4596ee528790c187dc33d4bfc",
             "label": "eclipse-zenoh:protocol_changes"
           },
           "head": {
@@ -6259,12 +6311,12 @@
           "draft": false,
           "requested_reviewers": [],
           "created_at": "2024-02-08T10:24:40Z",
-          "updated_at": "2024-02-20T11:15:32Z",
+          "updated_at": "2024-02-21T16:06:58Z",
           "closed_at": null,
           "merged_at": null,
           "base": {
             "ref": "protocol_changes",
-            "sha": "9bb6f8c01cd5e205ae2274ec8f0096172fffa88d",
+            "sha": "16e9eb3054a7f7d4596ee528790c187dc33d4bfc",
             "label": "eclipse-zenoh:protocol_changes"
           },
           "head": {
